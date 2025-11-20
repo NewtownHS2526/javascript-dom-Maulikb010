@@ -2,4 +2,8 @@
 // Example: let firstName = "John";
 //          let lastName = "Doe";
 //          let fullName = firstName + " " + lastName;
+let firstName = "Maulik";
+let lastName = "Bajgain";
+let fullName = firstName + " " + lastName;
+console.log("Full Name:", fullName);
 
