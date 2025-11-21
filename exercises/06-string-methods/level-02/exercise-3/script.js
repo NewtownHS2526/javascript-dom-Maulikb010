@@ -2,5 +2,5 @@
 // Example: text.charAt(0)
 let text = "MoneySolver";
 console.log(text.charAt(0)); // "M"
-console.log(text.charAt(4)); // "S"
+console.log(text.charAt(6)); // "S"
 
