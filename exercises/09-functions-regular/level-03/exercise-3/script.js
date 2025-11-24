@@ -3,4 +3,7 @@
 // function sayHello() {
 //     return "Hello!";
 // }
-
+function sayUniverse() {
+    return "Universe!";
+}
+console.log(sayUniverse());

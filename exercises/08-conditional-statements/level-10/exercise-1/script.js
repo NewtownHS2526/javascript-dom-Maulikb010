@@ -4,4 +4,7 @@
 // if (age >= 18) {
 //     console.log("Adult");
 // }
-
+let age = 32;
+if (age >= 18) {
+    console.log("Adult");
+}

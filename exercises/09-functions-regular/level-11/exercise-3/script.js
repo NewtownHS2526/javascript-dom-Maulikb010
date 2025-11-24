@@ -3,4 +3,7 @@
 // function sayHello() {
 //     return "Hello!";
 // }
-
+function saySoccer() {
+    return "Soccer!";
+}
+console.log(saySoccer());
