@@ -3,4 +3,7 @@
 // const sayHi = () => {
 //     return "Hi!";
 // };
-
+const sayeh = () => {
+    return "eh!";
+};
+console.log(sayeh());
